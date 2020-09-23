@@ -1,0 +1,3 @@
+I Love You !!!!! 
+Vinod
+/JavaExample11/src/com/baeldung/java_8_features/test.txt

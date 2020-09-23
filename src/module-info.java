@@ -1,0 +1,2 @@
+module JavaExample11 {
+}
